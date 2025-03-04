@@ -15,14 +15,14 @@
  | | | |   _____ _____  | _ \|   \|  __| 
  | | | |__/ _ \ V / -_) |  _/| |) |  _|  
  |_| |___,\___/\_/\___| |_|  |___/|_|    
-                                       [Nabil A Navab] 
-                                       Email: nabilanavab@gmail.com
-                                       Telegram: @nabilanavab
+                                       [BLACK] 
+                                       Email: nab****vab@gmail.com
+                                       Telegram: @vin
 ```
 
 <div align="center">
 
-# Enjoy the API
+# Enjoy the API For Free
 
 <i>iLovePDF is an easy-to-use, open-source Telegram PDF bot fully written in Python 🐍. This versatile tool allows you to perform a wide range of PDF manipulations, including converting PDFs to images, converting images and documents to PDFs, creating PDFs from websites, adding watermarks, encryption, and much more.</i>
 <br><br>
